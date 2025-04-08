@@ -61,7 +61,7 @@ project/
 
 3. **Install dependencies**:
    ```bash
-   pip install fastapi uvicorn sqlalchemy passlib jinja2
+   pip install fastapi uvicorn sqlalchemy passlib jinja2 python-multipart
    ```
 
 4. **Run the application**:
